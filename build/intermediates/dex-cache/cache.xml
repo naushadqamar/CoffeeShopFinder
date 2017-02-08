@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_8db91aded8eb4a2d645206b7b18e9eb9e9e6b3c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_b0179101ba5c254a97b00aeb5a503019bd8854cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_e4e113a9865c901095325b7b45d94bfb62f50abb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_364c31d41eeb469963251aa0e636a92b4b631b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_e7ec5880d4f09d6f361eb6126e1f6c7b7c41ed6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_76cf95e7e7a0e92de4586cf50abc7394ae33e47e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aab20b8b71df8009473a50f768c0a790b2554490">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3a49003a9b28791a6c3309cf70bf44b4fddfafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_b07bfd92caddc42793a87ce1d9ed3be06bf458f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_1dfcf9600093c412252e0c6bbb0f16be13cc2a2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_9e911e4fae257b62b541c6ec0377c16c3a88b170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_f957309ce003ea5fd9f427a4756039f6d5e41c2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_472e45e4d08bbf32eac659dc40cc22a78a855127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.0.0_a9593516c72ebf186345bd7b5ad7397319c25f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_e199f414049d55f5cce2eff53cc96aa4afe915a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.foursquare/foursquare-android-oauth/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dc88a23aaaa0d6b246af1435df4199dbd13ac28">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.foursquare-foursquare-android-oauth-1.0.3_2d4c11699798e4a33e1b09ab2dc39bba7075656e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c7e40eb33c166c4e9bd78cd02edd0839bf1db3ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e140d4d44de47d3a52230af28e8abdcdc90a1eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9423b7aed38cdcab61192ac38bb53ad0314455af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.0.0_a23b33b289a1e5b411bd7930477431528c8cfbeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-7.0.0_74647c7d474b7000c256e511463b20c73ec94d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3f6a83a4229c283d3342ca70468d253de39be88f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8eec5fabd5631a7ce65d46d4969eeae5fc73d2b">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d61b28c74cbd77ad151b0f268b9f341c25f8807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Naushad/Documents/project_new/Foursquare-api-Android-example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_823176487a7689f4d58cf98d9a176219aedcc79f/classes.dex" />
+    </item>
+
+</items>

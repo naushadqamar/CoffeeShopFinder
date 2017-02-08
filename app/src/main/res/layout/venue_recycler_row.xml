@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left">
+
+
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentRight="true"
+      android:gravity="left"
+      android:orientation="vertical"
+      android:paddingLeft="@dimen/activity_horizontal_margin"
+      android:paddingRight="@dimen/activity_horizontal_margin"
+      android:paddingTop="@dimen/activity_vertical_margin"
+      android:weightSum="1">
+
+    <TextView
+        android:id="@+id/coffee_shop_name"
+        android:layout_width="267dp"
+        android:textStyle="bold"
+        android:text="name"
+        android:layout_weight="0.15"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_height="20dp" />
+    <TextView
+        android:id="@+id/coffee_shop_address"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:textSize="15sp"
+        android:text="address"
+        android:textColor="@color/colorPrimary"
+        />
+
+    <TextView
+        android:id="@+id/coffee_shop_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:textSize="15sp"
+        android:textColor="@color/colorPrimary"
+        android:text="distance"
+        />
+
+    <TextView
+        android:id="@+id/venue_rating"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:textSize="15sp"
+        android:textColor="@color/colorPrimary"
+        android:text="rating"
+        />
+    <TextView
+        android:id="@+id/coffee_shop_url"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:textSize="15sp"
+        android:textColor="@color/colorAccent"
+        android:text="rating"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+
+
+  </LinearLayout>
+
+</RelativeLayout>
